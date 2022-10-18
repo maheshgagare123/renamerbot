@@ -53,8 +53,8 @@ async def text(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Channel 🔔', url='https://t.me/DevelopedBots'),
-                    InlineKeyboardButton('Support 📢', url='https://t.me/DevelopedBotz')
+                    InlineKeyboardButton('Channel 🔔', url='https://t.me/telebotinc'),
+                    InlineKeyboardButton('Support 📢', url='https://t.me/telebotinc')
                 ],
                 [
                     InlineKeyboardButton('Source 🖥', url='https://t.me/telebotinc'),
