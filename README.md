@@ -9,11 +9,11 @@ ABOUT BOT
 
 ### YOU WANT TO DEPLOY A BOT FOR YOU CLICK THE BUTTON GIVEN BELOW.....  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JOHNWICK049/John-File-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maheshgagare123/renamerbot)
  
 
 ### BOTS ARE MAINTAINED BY
      
-[KUNAL DIWAN](https://t.me/Kunaldiwan)   
+[MAHESH GAGARE](https://t.me/supertech_developer)   
 
 
