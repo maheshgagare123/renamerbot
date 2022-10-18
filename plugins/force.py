@@ -57,8 +57,8 @@ async def text(bot, update):
                     InlineKeyboardButton('Support 📢', url='https://t.me/DevelopedBotz')
                 ],
                 [
-                    InlineKeyboardButton('Source 🖥', url='https://github.com/DevelopedBots/FileRenameBot'),
-                    InlineKeyboardButton('Donate 💸', url='https://www.paypal.me/kunaldiwan1')
+                    InlineKeyboardButton('Source 🖥', url='https://t.me/telebotinc'),
+                    InlineKeyboardButton('Donate 💸', url='https://t.me/supertech_developer')
                 ]
             ]
         ),
